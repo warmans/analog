@@ -4,6 +4,8 @@
  * Refactored version of original Analog class implementing a strategy pattern for 
  * logging in different ways (e.g. using closure or standard).
  * 
+ * Comments may not longer be accurate.
+ * 
  * Stefan Warman
  * 
  */
